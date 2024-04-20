@@ -1,2 +1,2 @@
 # C-
-git C++ repository
+git Baekjoon_practice repository
