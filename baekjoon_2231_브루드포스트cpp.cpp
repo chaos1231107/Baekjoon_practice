@@ -10,7 +10,7 @@ int main()
     cin >> target;
 
     // 생성자 m의 범위를 0부터 target까지 고려
-    for (int i = max(1, target - 1000); i < target; i++)
+    for (int i = max(0, target - 1000); i < target; i++)
     {
         int num = i;
         int m_sum = 0;
