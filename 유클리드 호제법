@@ -1,0 +1,12 @@
+long long int get_gcd (long long int a, long long int b)
+}
+
+long long int get_lcm(long long int a, long long int b)
+{
+    return a * b / get_gcd(a, b);
+}
+
+int main()
+{
+
+}
